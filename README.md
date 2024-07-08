@@ -1,6 +1,6 @@
 # Random Users
 
-![alt text](image.png)
+![alt text](./images/image.png)
 ### Requerimientos
 ```Node v.18.17.0+```
 ### Instalación
@@ -54,12 +54,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
     - Mapeo de códigos de país a nombres completos de países para mostrar nombres amigables en la tabla.
 
 ## Filter
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 ## Search Bar
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 ## Ver Usuario
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 ## Editar Usuario
-![alt text](image-4.png)
+![alt text](./images/image-4.png)
 
 
