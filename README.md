@@ -1,4 +1,6 @@
 # Random Users
+
+![alt text](image.png)
 ### Requerimientos
 ```Node v.18.17.0+```
 ### Instalación
@@ -8,6 +10,7 @@
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 ## Features
 
 1. **User Data Table**
@@ -50,8 +53,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 10. **Utilities**
     - Mapeo de códigos de país a nombres completos de países para mostrar nombres amigables en la tabla.
 
-## Home
-![alt text](image.png)
 ## Filter
 ![alt text](image-1.png)
 ## Search Bar
