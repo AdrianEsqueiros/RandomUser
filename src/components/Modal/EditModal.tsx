@@ -47,6 +47,9 @@ const EditModal: React.FC<EditModalProps> = ({ user, onClose, onSave }) => {
           </div>
           <div className="modal-body">
             <form onSubmit={handleSubmit}>
+            <div className="text-center mb-3">
+              <img src={user.picture.large} alt="Profile" className="img-fluid rounded-circle" />
+            </div>
               <div className="form-group">
                 <label htmlFor="firstName">Nombre</label>
                 <input
